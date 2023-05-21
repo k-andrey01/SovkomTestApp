@@ -33,9 +33,4 @@ out/
 /nbdist/
 /.nb-gradle/
 
-### VS Code ###
-.vscode/
-
-### Allure ###
-allure-report/
-allure-results/
+/src/main/resources/application.properties
